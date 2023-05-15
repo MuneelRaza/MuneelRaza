@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am currently a Computer Science Student at Namal University with deep interest in Data Science and Machine Learning. I started my programming career three years back with Python. I studied courses like Fundamental Programming, Object Oriented Programming, Data Structures, Analysis of Algorithms, Artificial Intelligence and Machine Learning.
+I am currently a Computer Science Student at Namal University with deep interest in Data Science and Machine Learning. I started my programming career three years back with Python. I studied courses like Fundamental Programming, Object Oriented Programming, Data Structures, Analysis of Algorithms, Artificial Intelligence and Machine Learning.Throughout this journey, I worked on multiple projects. I am also expanding my knowledge with coursera through different certifications and specializations.
