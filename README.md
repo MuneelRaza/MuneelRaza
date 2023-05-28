@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 I am currently a Computer Scientist with deep interest in Data Science and Machine Learning. I started my programming career three years back with Python. I studied courses like Fundamental Programming, Object Oriented Programming, Data Structures, Analysis of Algorithms, Artificial Intelligence and Machine Learning.Throughout this journey, I worked on multiple projects. I am also expanding my knowledge with coursera through different certifications and specializations.
 ### Projects
 My projects are available on GitHub. You can check and also provide the valuable feedback for my improvement. Everything, I build is open-source and can be accessed by anyone.
+### Social Media
+[LinkedIn](https://www.linkedin.com/in/muneel-raza-naqvi-802565239/)
+[HakerRank](https://www.hackerrank.com/muneelraza1016?hr_r=1)
