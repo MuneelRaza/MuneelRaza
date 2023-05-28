@@ -20,4 +20,4 @@ I am a Computer Scientist with deep interest in Data Science and Machine Learnin
 My projects are available on GitHub. You can check and also provide the valuable feedback for my improvement. Everything, I build is open-source and can be accessed by anyone.
 ### Social Media
 [LinkedIn](https://www.linkedin.com/in/muneel-raza-naqvi-802565239/)
-[HakerRank](https://www.hackerrank.com/muneelraza1016?hr_r=1)
+[HackerRank](https://www.hackerrank.com/muneelraza1016?hr_r=1)
