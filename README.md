@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am currently a Computer Scientist with deep interest in Data Science and Machine Learning. I started my programming career three years back with Python. I studied courses like Fundamental Programming, Object Oriented Programming, Data Structures, Analysis of Algorithms, Artificial Intelligence and Machine Learning.Throughout this journey, I worked on multiple projects. I am also expanding my knowledge with coursera through different certifications and specializations.
+I am a Computer Scientist with deep interest in Data Science and Machine Learning. I started my programming career three years back with Python. I studied courses like Fundamental Programming, Object Oriented Programming, Data Structures, Analysis of Algorithms, Artificial Intelligence and Machine Learning.Throughout this journey, I worked on multiple projects. I am also expanding my knowledge with coursera through different certifications and specializations.
 ### Projects
 My projects are available on GitHub. You can check and also provide the valuable feedback for my improvement. Everything, I build is open-source and can be accessed by anyone.
 ### Social Media
